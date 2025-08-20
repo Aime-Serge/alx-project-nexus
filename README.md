@@ -8,7 +8,7 @@ This project was developed as part of the **ALX ProDev Front-End Development Pro
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo  [YouTube](https://youtu.be/_5wlKrV2fNM?si=E2ndiVjX0rx6K1k-)
 👉 [S&G Fast and Easy Buy – Online Store](https://onlinestore-e-commerce-platform.vercel.app/)
 
 ---
